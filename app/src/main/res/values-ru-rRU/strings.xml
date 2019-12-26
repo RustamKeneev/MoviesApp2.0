@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoviesApp2.0</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="top_rated_text_view">Наиболее рейтинговые</string>
+    <string name="add_to_favorite">Добавлено в избранное</string>
+    <string name="remove_from_favorite">Удалено из  избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favorite">Избранное</string>
+    <string name="launch_trailer">Запустить трейлер</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="title">Название:</string>
+    <string name="original_title">Оригинальные название</string>
+    <string name="rating">Рейтинг</string>
+    <string name="relaese_date">Дата выхода:</string>
+    <string name="description">Описание:</string>
+</resources>
